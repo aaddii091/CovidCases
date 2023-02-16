@@ -1,10 +1,7 @@
-# Getting Started with Create React App
+![image](https://user-images.githubusercontent.com/100509451/219470720-b1bb3e79-1dd3-46d3-bbda-f7ab321c2a2d.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+Created a COVID CASES displaying application using react.js and 
 
 ### `npm start`
 
